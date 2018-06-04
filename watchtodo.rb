@@ -17,3 +17,4 @@ class Watchtodo < Formula
     ```
     EOT
   end
+end
